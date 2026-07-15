@@ -13,4 +13,32 @@ This repository contains my Microsoft Foundry assignment completed as part of th
 - Tested the model playground inside VS Code
 
 Author:
-Surendra
+Surendra## Screenshots
+
+### 1. Microsoft Foundry Project
+
+![Project Home](1-project%20home.png)
+
+---
+
+### 2. Model Deployment
+
+![Model Deployment](2-modeldeployment.PNG)
+
+---
+
+### 3. Foundry Toolkit in VS Code
+
+![Foundry Toolkit](3-foundry%20tool%20kit.PNG)
+
+---
+
+### 4. VS Code Playground
+
+![VS Code Playground](vscode%20playground.PNG)
+
+---
+
+### 5. GitHub Repository
+
+![GitHub Repository](github%20repository.PNG)
