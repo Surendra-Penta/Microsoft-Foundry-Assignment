@@ -38,7 +38,3 @@ Surendra## Screenshots
 ![VS Code Playground](vscode%20playground.PNG)
 
 ---
-
-### 5. GitHub Repository
-
-![GitHub Repository](github%20repository.PNG)
