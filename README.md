@@ -41,4 +41,4 @@ Surendra## Screenshots
 
 ### 5. GitHub Repository
 
-![GitHub Repository](./github%20repository.PNG)
+![GitHub Repository](github-repository.PNG)
